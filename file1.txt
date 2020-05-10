@@ -7,3 +7,6 @@ attention est est bien sur sur une branche.
 
 ce contenu a été sauvegardé par la branche master destiné a être fusionner
 
+sur branche toto on supposer qu'on a ajouté un texte
+on va ecrire un peu du teste pour pemettre de faire notre texte avec github
+
